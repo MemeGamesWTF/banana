@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1733130686,
+	"version": 1733141168,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -17,6 +17,12 @@
 		"icon-114.png",
 		"icon-128.png",
 		"icon-256.png",
-		"loading-logo.png"
+		"loading-logo.png",
+		"stop it.mp4",
+		"omg.mp4",
+		"yeah boi.mp4",
+		"jk simmons.mp4",
+		"spanish guy laugh.mp4",
+		"nice.mp4"
 	]
 }
