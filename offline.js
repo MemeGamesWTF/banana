@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1739770818,
+	"version": 1739772421,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -14,6 +14,8 @@
 		"images/sprite8-sheet0.png",
 		"images/sprite10-sheet0.png",
 		"images/imagephotoroom20250217t-sheet0.png",
+		"images/image_fx_photoroom-sheet0.png",
+		"images/b1-sheet0.png",
 		"media/bgm - meme mash.m4a",
 		"media/bgm - meme mash.ogg",
 		"icon-16.png",
